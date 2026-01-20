@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Xcode user-specific files
+*.xcuserstate
+xcuserdata/
+
+# Build products
+build/
+DerivedData/
+
+# Temp files created during icon generation
+temp_icons/
